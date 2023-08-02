@@ -1,7 +1,7 @@
 # Portofilio Maciej Brodecki
 
 ## O mnie
-# My name is Maciej. I'm master in biology graduated from Uniwerystet Gdański. After finishing my master deegree i started to develop ma skills in IT field; despite my education i was always intrested in that field - before biology i was studing bioinformatics. My current goal is to futher hone my skill in sofwere testing.
+### My name is Maciej. I'm master in biology graduated from Uniwerystet Gdański. After finishing my master deegree i started to develop ma skills in IT field; despite my education i was always intrested in that field - before biology i was studing bioinformatics. My current goal is to futher hone my skill in sofwere testing.
 
 ## Tools
 ### ·Selenium
